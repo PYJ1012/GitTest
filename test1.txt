@@ -2,3 +2,4 @@ abcd
 12345
 qwer
 add func1
+add func2
